@@ -1,0 +1,15 @@
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\HR.exe.config
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\HR.exe
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\HR.pdb
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\EntityFramework.dll
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\EntityFramework.xml
+C:\Users\hari.hemanth\Desktop\HR\HR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.csprojAssemblyReference.cache
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.csproj.CopyComplete
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.exe
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.pdb
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.Migrations.intial.resources
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.csproj.GenerateResource.cache
+C:\Users\hari.hemanth\Desktop\HR\HR\obj\Debug\HR.Migrations.employeetable.resources
